@@ -1,4 +1,4 @@
-bad_number_skipper
+unlucky_number_skipper
 ==================
 
-忌み数
+古今東西の忌み数を飛ばしてインクリメントするプログラム
